@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 Jan 2018 10:15:56 at http://www.innovationplans.com/idesign/sam-martin/main.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.innovationplans.com/idesign/sam-martin/main.html -O1 "C:\My Web Sites\Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:16:04	Warning: 	Note: due to www.innovationplans.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+10:19:22	Warning: 	Retry after error -2 (Receive Time Out) at link www.innovationplans.com/idesign/sam-martin/blog-single.html (from www.innovationplans.com/idesign/sam-martin/main.html)
+10:19:31	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/sam-martin/fonts/glyphicons-halflings-regular.woff2 (from www.innovationplans.com/idesign/sam-martin/css/bootstrap.min.css)
+10:19:31	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/sam-martin/css/owl.video.play.png (from www.innovationplans.com/idesign/sam-martin/css/owl.carousel.min.css)
+10:19:31	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/sam-martin/fonts/fontawesome-webfont.svg?v=4.7.0 (from www.innovationplans.com/idesign/sam-martin/css/font-awesome.min.css)
+10:19:31	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/sam-martin/fonts/ionicons.woff?v=2.0.0 (from www.innovationplans.com/idesign/sam-martin/css/ionicons.min.css)
+10:19:31	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/sam-martin/fonts/ionicons.svg?v=2.0.0 (from www.innovationplans.com/idesign/sam-martin/css/ionicons.min.css)
+10:19:38	Error: 	"Not Found" (404) at link www.innovationplans.com/idesign/sam-martin/Popover requires tooltip.js (from www.innovationplans.com/idesign/sam-martin/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 42 seconds : 74 links scanned, 66 files written (4646344 bytes overall) [4254892 bytes received at 19166 bytes/sec], 690283 bytes transferred using HTTP compression in 33 files, ratio 24%, 6.7 requests per connection
+(6 errors, 2 warnings, 0 messages)
